@@ -1,7 +1,7 @@
 #  About Me:
  I’m currently working on<br>• IAM labs (Active Directory, user provisioning, RBAC)<br>• Help Desk ticket simulations and troubleshooting practice<br><br> I’m looking to collaborate on<br>• Beginner IAM projects<br>• Identity lifecycle automation scripts<br>• Documentation for IT support processes<br><br> I’m looking for help with<br>• Azure AD / Entra ID labs<br>• Identity governance concepts<br>• Enterprise IAM tools<br><br> I’m currently learning<br>• Active Directory & Group Policy<br>• IAM fundamentals (Authentication, Authorization, RBAC)<br>• IT Help Desk troubleshooting workflow<br>• PowerShell basics for identity management<br><br>Ask me about<br>• IT Support fundamentals<br>• IAM basics<br>• Ticket handling and troubleshooting<br><br> Fun fact<br>• I enjoy breaking and fixing lab environments to understand how systems actually fail.
 
-
+                     
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ismayeel-Khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismayeelkhan411@gmail.com) 
 
